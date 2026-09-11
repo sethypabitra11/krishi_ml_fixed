@@ -1,0 +1,201 @@
+Date,Location,Product,Market_Supply_kg,Festival_Season,Selling_Price_per_kg,Quantity_Sold_kg
+2023-01-01,Old Town,Spinach,555,0,16.28,509
+2023-01-01,Rasulgarh,Cabbage,1623,1,31.02,1421
+2023-01-02,Vani Vihar,Spinach,342,0,31.99,305
+2023-01-04,Unit-1 Market,Spinach,743,0,13.12,588
+2023-01-09,Vani Vihar,Onion,3154,0,18.78,2781
+2023-01-09,Unit-1 Market,Tomato,959,0,44.97,759
+2023-01-10,Vani Vihar,Brinjal,681,1,67.06,663
+2023-01-11,Saheed Nagar,Onion,2561,0,23.97,2421
+2023-01-11,Saheed Nagar,Potato,2693,0,24.37,2467
+2023-01-12,Unit-1 Market,Onion,1856,0,32.12,1474
+2023-01-12,Rasulgarh,Brinjal,1447,0,25.73,1224
+2023-01-12,Rasulgarh,Brinjal,574,0,67.71,418
+2023-01-14,Unit-1 Market,Cabbage,902,0,48.55,833
+2023-01-14,Rasulgarh,Cabbage,1683,0,24.98,1525
+2023-01-15,Patia,Spinach,494,0,22.21,375
+2023-01-15,Unit-1 Market,Cauliflower,550,0,72.2,433
+2023-01-16,Rasulgarh,Onion,3475,1,22.28,3268
+2023-01-18,Rasulgarh,Spinach,683,1,16.64,530
+2023-01-18,Unit-1 Market,Cabbage,1113,0,34.15,809
+2023-01-18,Vani Vihar,Cauliflower,825,0,48.88,708
+2023-01-18,Unit-1 Market,Spinach,571,0,17.37,477
+2023-01-18,Vani Vihar,Onion,3498,0,17.45,2923
+2023-01-19,Old Town,Potato,3269,0,17.96,2645
+2023-01-19,Unit-1 Market,Brinjal,528,0,79.62,451
+2023-01-20,Rasulgarh,Potato,2589,0,23.85,2181
+2023-01-20,Khandagiri,Spinach,308,0,30.15,274
+2023-01-21,Old Town,Onion,2062,0,31.7,1772
+2023-01-21,Vani Vihar,Potato,2247,1,32.78,2197
+2023-01-21,Khandagiri,Cabbage,1637,0,27.26,1555
+2023-01-22,Rasulgarh,Brinjal,715,0,57.32,515
+2023-01-23,Old Town,Brinjal,1024,0,38.53,791
+2023-01-24,Vani Vihar,Tomato,876,0,47.89,809
+2023-01-25,Saheed Nagar,Spinach,743,0,14.19,557
+2023-01-26,Khandagiri,Onion,1442,0,41.52,1067
+2023-01-27,Saheed Nagar,Spinach,528,1,24.01,447
+2023-01-27,Unit-1 Market,Brinjal,1042,0,35.63,938
+2023-01-28,Patia,Potato,3220,1,23.91,2876
+2023-01-28,Old Town,Brinjal,1321,0,27.92,1204
+2023-01-28,Rasulgarh,Cauliflower,768,0,49.02,607
+2023-01-29,Saheed Nagar,Spinach,267,0,37.2,223
+2023-01-29,Patia,Cabbage,611,0,63.26,529
+2023-01-30,Saheed Nagar,Potato,2435,0,23.4,2157
+2023-02-02,Patia,Cabbage,1771,0,23.79,1382
+2023-02-03,Rasulgarh,Cabbage,1526,0,27.63,1393
+2023-02-03,Rasulgarh,Cauliflower,418,1,127.14,354
+2023-02-03,Rasulgarh,Onion,2055,0,28.66,1606
+2023-02-04,Saheed Nagar,Tomato,1167,0,36.07,842
+2023-02-05,Khandagiri,Potato,3868,0,14.24,3185
+2023-02-05,Old Town,Brinjal,1397,0,30.85,1250
+2023-02-05,Patia,Cabbage,736,0,61.91,676
+2023-02-05,Rasulgarh,Tomato,1812,0,22.45,1707
+2023-02-07,Khandagiri,Potato,2355,0,23.81,2176
+2023-02-09,Saheed Nagar,Onion,2975,0,19.07,2677
+2023-02-10,Vani Vihar,Cabbage,792,0,53.55,691
+2023-02-10,Rasulgarh,Brinjal,1394,1,36.57,1394
+2023-02-11,Old Town,Spinach,706,1,17.75,640
+2023-02-11,Rasulgarh,Brinjal,1390,0,29.32,1208
+2023-02-15,Rasulgarh,Onion,3724,0,16.19,3360
+2023-02-15,Old Town,Tomato,1794,1,31.79,1429
+2023-02-15,Khandagiri,Tomato,827,0,52.64,606
+2023-02-17,Unit-1 Market,Cauliflower,980,1,52.18,867
+2023-02-18,Old Town,Brinjal,828,0,49.98,735
+2023-02-18,Unit-1 Market,Tomato,1960,0,25.21,1574
+2023-02-20,Patia,Onion,1983,0,33.47,1789
+2023-02-20,Rasulgarh,Cabbage,1738,0,26.42,1567
+2023-02-24,Old Town,Cabbage,1602,0,25.28,1196
+2023-02-25,Patia,Cauliflower,1028,0,36.57,851
+2023-02-25,Vani Vihar,Onion,1928,0,34.55,1521
+2023-02-26,Patia,Spinach,670,0,13.85,602
+2023-02-26,Khandagiri,Cauliflower,796,0,45.57,738
+2023-02-26,Unit-1 Market,Tomato,994,0,41.38,855
+2023-02-28,Vani Vihar,Onion,2841,0,21.18,2349
+2023-02-28,Patia,Tomato,1534,0,28.51,1410
+2023-03-02,Vani Vihar,Potato,3243,0,17.22,2660
+2023-03-02,Saheed Nagar,Cabbage,683,0,56.58,481
+2023-03-02,Khandagiri,Tomato,1965,0,25.13,1449
+2023-03-02,Patia,Brinjal,1447,1,37.91,1413
+2023-03-03,Saheed Nagar,Brinjal,858,0,43.02,744
+2023-03-03,Old Town,Tomato,1290,1,40.35,1178
+2023-03-04,Patia,Brinjal,1203,0,32.34,1134
+2023-03-05,Patia,Tomato,1460,0,28.81,1180
+2023-03-05,Saheed Nagar,Potato,2735,0,21.27,2550
+2023-03-09,Vani Vihar,Spinach,574,0,18.28,485
+2023-03-09,Old Town,Spinach,408,1,28.61,376
+2023-03-09,Old Town,Spinach,731,0,14.6,638
+2023-03-10,Vani Vihar,Cabbage,629,0,68.72,468
+2023-03-10,Rasulgarh,Cabbage,1112,0,40.17,1017
+2023-03-12,Patia,Potato,1967,0,27.81,1802
+2023-03-13,Khandagiri,Potato,3148,0,18.84,2902
+2023-03-13,Vani Vihar,Spinach,581,0,16.56,482
+2023-03-17,Patia,Tomato,1793,0,24.87,1536
+2023-03-18,Khandagiri,Onion,2652,0,25.34,2123
+2023-03-18,Rasulgarh,Tomato,1008,0,41.9,715
+2023-03-19,Old Town,Spinach,370,0,24.73,270
+2023-03-20,Patia,Tomato,1636,0,24.92,1160
+2023-03-21,Khandagiri,Cabbage,897,0,45.47,797
+2023-03-22,Patia,Cabbage,1309,0,33.23,921
+2023-03-22,Saheed Nagar,Potato,2242,1,33.12,1805
+2023-03-22,Khandagiri,Cauliflower,977,0,42.74,840
+2023-03-24,Khandagiri,Tomato,1256,1,43.67,999
+2023-03-26,Unit-1 Market,Cauliflower,708,1,77.14,708
+2023-03-26,Saheed Nagar,Spinach,400,0,26.24,330
+2023-03-28,Unit-1 Market,Cauliflower,892,0,46.05,634
+2023-03-29,Patia,Cabbage,932,0,47.82,826
+2023-03-29,Saheed Nagar,Potato,2087,0,26.13,1630
+2023-03-29,Unit-1 Market,Onion,3634,1,23.28,3168
+2023-03-30,Old Town,Onion,3288,0,19.79,2900
+2023-03-30,Rasulgarh,Spinach,448,0,23.65,330
+2023-03-31,Unit-1 Market,Potato,3366,0,19.12,3155
+2023-03-31,Rasulgarh,Cauliflower,899,1,51.36,899
+2023-04-01,Patia,Cabbage,1675,1,30.2,1340
+2023-04-03,Old Town,Potato,3183,0,19.87,2621
+2023-04-04,Patia,Onion,1716,1,49.1,1575
+2023-04-05,Old Town,Cauliflower,522,0,72.73,386
+2023-04-05,Saheed Nagar,Potato,4279,0,14.0,3271
+2023-04-08,Unit-1 Market,Brinjal,968,0,37.66,706
+2023-04-08,Saheed Nagar,Cabbage,902,1,58.17,769
+2023-04-09,Khandagiri,Cauliflower,997,0,41.32,909
+2023-04-13,Saheed Nagar,Tomato,1698,0,27.21,1416
+2023-04-13,Saheed Nagar,Potato,3399,1,21.35,2943
+2023-04-13,Unit-1 Market,Potato,4219,0,13.12,3472
+2023-04-13,Rasulgarh,Spinach,417,0,22.25,374
+2023-04-14,Rasulgarh,Onion,1478,1,50.95,1478
+2023-04-16,Vani Vihar,Cabbage,1417,0,31.18,1202
+2023-04-19,Khandagiri,Brinjal,928,1,56.58,907
+2023-04-19,Old Town,Tomato,1086,0,43.19,824
+2023-04-19,Vani Vihar,Onion,2580,0,22.32,2094
+2023-04-22,Patia,Brinjal,1428,0,27.61,1344
+2023-04-23,Vani Vihar,Cauliflower,1184,0,33.73,926
+2023-04-27,Saheed Nagar,Brinjal,874,1,54.76,874
+2023-04-27,Rasulgarh,Spinach,654,1,19.62,654
+2023-04-28,Saheed Nagar,Onion,1659,0,35.14,1499
+2023-04-28,Patia,Onion,2216,0,30.67,1627
+2023-04-30,Old Town,Onion,2670,0,21.51,2114
+2023-05-02,Vani Vihar,Brinjal,1303,0,29.36,969
+2023-05-02,Old Town,Potato,2312,0,25.63,1663
+2023-05-03,Old Town,Spinach,288,0,38.02,272
+2023-05-05,Patia,Cauliflower,946,0,38.66,737
+2023-05-05,Patia,Potato,3161,0,20.76,2626
+2023-05-05,Khandagiri,Potato,1750,0,36.19,1469
+2023-05-08,Khandagiri,Cabbage,871,0,49.62,647
+2023-05-10,Khandagiri,Onion,2172,0,28.56,1926
+2023-05-10,Saheed Nagar,Potato,2544,1,29.56,2507
+2023-05-11,Unit-1 Market,Brinjal,1042,0,36.48,819
+2023-05-11,Unit-1 Market,Spinach,331,0,32.69,299
+2023-05-13,Khandagiri,Tomato,1805,1,31.0,1438
+2023-05-16,Unit-1 Market,Cauliflower,919,0,45.28,826
+2023-05-16,Patia,Tomato,1554,0,27.85,1403
+2023-05-18,Saheed Nagar,Tomato,1550,0,31.32,1390
+2023-05-18,Rasulgarh,Cabbage,1278,1,42.7,1278
+2023-05-18,Unit-1 Market,Brinjal,1123,1,43.02,884
+2023-05-19,Vani Vihar,Cabbage,1457,0,29.75,1121
+2023-05-20,Unit-1 Market,Spinach,743,0,13.74,564
+2023-05-21,Unit-1 Market,Tomato,901,0,45.79,788
+2023-05-22,Patia,Cauliflower,900,0,44.47,822
+2023-05-22,Rasulgarh,Brinjal,998,0,36.77,832
+2023-05-22,Vani Vihar,Tomato,1115,0,44.18,890
+2023-05-23,Rasulgarh,Cabbage,1669,0,25.3,1582
+2023-05-24,Old Town,Onion,2899,0,22.93,2431
+2023-05-24,Vani Vihar,Brinjal,687,0,56.17,553
+2023-05-24,Unit-1 Market,Tomato,1868,0,23.76,1367
+2023-05-26,Patia,Cauliflower,704,0,62.16,641
+2023-05-28,Patia,Onion,3521,0,18.05,2817
+2023-05-28,Khandagiri,Potato,3590,0,17.14,3300
+2023-05-29,Saheed Nagar,Tomato,1604,0,29.53,1474
+2023-05-29,Rasulgarh,Cauliflower,1120,0,32.47,862
+2023-05-30,Old Town,Cauliflower,844,1,62.43,844
+2023-05-30,Khandagiri,Cauliflower,593,0,61.96,548
+2023-06-02,Unit-1 Market,Cauliflower,774,1,63.5,654
+2023-06-04,Patia,Cabbage,698,0,64.67,649
+2023-06-04,Unit-1 Market,Cauliflower,437,0,93.5,324
+2023-06-05,Khandagiri,Potato,2019,0,27.68,1539
+2023-06-08,Rasulgarh,Potato,2227,0,24.87,1898
+2023-06-09,Old Town,Tomato,1069,0,39.03,752
+2023-06-10,Saheed Nagar,Spinach,745,0,12.46,618
+2023-06-10,Old Town,Spinach,486,1,23.76,469
+2023-06-11,Unit-1 Market,Potato,3257,0,20.04,2748
+2023-06-12,Vani Vihar,Onion,1773,0,34.34,1455
+2023-06-12,Patia,Cauliflower,670,0,64.99,523
+2023-06-13,Unit-1 Market,Tomato,2176,0,21.64,1848
+2023-06-13,Old Town,Cauliflower,992,1,52.39,955
+2023-06-15,Unit-1 Market,Cauliflower,808,0,48.69,610
+2023-06-15,Unit-1 Market,Tomato,2093,0,21.02,1470
+2023-06-16,Saheed Nagar,Brinjal,616,0,59.04,437
+2023-06-16,Old Town,Spinach,660,0,15.78,475
+2023-06-17,Old Town,Tomato,977,0,42.73,840
+2023-06-18,Patia,Brinjal,1316,0,30.03,1045
+2023-06-18,Khandagiri,Onion,3191,0,18.96,2976
+2023-06-20,Vani Vihar,Cauliflower,676,0,63.87,553
+2023-06-21,Rasulgarh,Onion,2765,1,26.72,2639
+2023-06-23,Rasulgarh,Cauliflower,569,1,82.28,466
+2023-06-24,Old Town,Spinach,496,0,18.93,436
+2023-06-24,Patia,Cabbage,909,1,53.95,867
+2023-06-24,Rasulgarh,Tomato,1696,1,35.12,1540
+2023-06-25,Saheed Nagar,Spinach,389,0,27.81,295
+2023-06-26,Old Town,Potato,1610,0,38.08,1329
+2023-06-26,Patia,Cabbage,1485,1,35.74,1393
+2023-06-28,Rasulgarh,Spinach,731,0,12.35,688
+2023-06-29,Unit-1 Market,Brinjal,1465,1,31.57,1422
+2023-06-29,Old Town,Brinjal,597,0,69.47,483
